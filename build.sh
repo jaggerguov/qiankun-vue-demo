@@ -10,7 +10,7 @@
   base_url=$current_path
   # 开始pull拉取项目
   project_path=$base_url
-  # mkdir dist
+  mkdir dist
   main="portal"
   main_dir=$project_path/$main
   cd $main_dir
