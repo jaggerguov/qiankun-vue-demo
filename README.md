@@ -70,3 +70,7 @@
 部署之后 子应用加载不到静态文件
 请先 子应用 vue add vue-cli-plugin-chensj 再部署
 ```
+
+## build 打包部署
+安装依赖=》打包
+
