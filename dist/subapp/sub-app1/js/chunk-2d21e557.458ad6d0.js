@@ -1,0 +1,1 @@
+(window["webpackJsonp_sub-app1"]=window["webpackJsonp_sub-app1"]||[]).push([["chunk-2d21e557"],{d4b3:function(n,e,u){"use strict";u.r(e);var t=function(){var n=this,e=n.$createElement,u=n._self._c||e;return u("div",[n._v("childSub")])},c=[],l={},p=l,s=u("2877"),a=Object(s["a"])(p,t,c,!1,null,null,null);e["default"]=a.exports}}]);

@@ -1,0 +1,1 @@
+(window["webpackJsonp_sub-app1"]=window["webpackJsonp_sub-app1"]||[]).push([["chunk-2d226554"],{e7e1:function(e,n,u){"use strict";u.r(n);var t=function(){var e=this,n=e.$createElement,u=e._self._c||n;return u("div",[e._v(" bbb 测试三级菜单 ")])},p=[],s=u("2877"),a={},c=Object(s["a"])(a,t,p,!1,null,null,null);n["default"]=c.exports}}]);
